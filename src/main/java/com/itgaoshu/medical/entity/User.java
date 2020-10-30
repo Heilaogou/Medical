@@ -1,5 +1,5 @@
 package com.itgaoshu.medical.entity;
-//注释
+//注释zzz
 public class User {
     private int id;
     private String username;
